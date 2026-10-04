@@ -15,5 +15,3 @@ Personal exam cheat sheets from NUS modules.
 | `F FP32` | IEEE 754 single-precision floating point |
 | `D1 Datapath & Control Cards` | Per-instruction datapath paths, values and control signals |
 | `D3 Critical Path` | Latency formulas, critical path and timing graphs |
-
-Made for my own revision. Check against official course material before relying on anything here.
